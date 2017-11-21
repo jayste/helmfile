@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/roboll/helmfile/helmexec"
-	"github.com/roboll/helmfile/state"
+	"github.com/jayste/helmfile/helmexec"
+	"github.com/jayste/helmfile/state"
 	"github.com/urfave/cli"
 )
 
